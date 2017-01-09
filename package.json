@@ -1,0 +1,16 @@
+{
+  "name": "socketpaint",
+  "version": "1.0.0",
+  "description": "Demonstates the use of socket networking in a small canvas application",
+  "main": "index.js",
+  "author": "Lewis Clark",
+  "private": true,
+  "license": "MIT",
+  "dependencies": {
+  "express": "4.13.4",
+	"socket.io": "1.7.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
